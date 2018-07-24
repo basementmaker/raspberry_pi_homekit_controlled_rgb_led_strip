@@ -1,2 +1,4 @@
-# raspberry_pi_homekit_controlled_rgb_led_strip
+# Raspberry Pi - HomeKit Controlled RGB LED Strip
 This is the repo that goes along with my YouTube Video: Raspberry Pi - HomeKit Controlled RGB LED Strip
+
+Video Link:
