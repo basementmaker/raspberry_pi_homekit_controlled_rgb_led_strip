@@ -57,11 +57,6 @@ var LightController = {
 
 	getPower: function() { //get power of accessory
 		if (this.outputLogs) { console.log("'%s' is %s.", this.name, this.power ? "on" : "off"); }
-		if ( this.redValue > 0 || this.greenValue > 0 || this.blueValue > 0 || this.power == true ) {
-		  this.power = true;
-		} else {
-		  this.power = false;
-		}
 		return this.power;
 	},
 		
